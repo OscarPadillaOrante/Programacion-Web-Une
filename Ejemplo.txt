@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 grvgervdvedv
+=======
+hola mundo
+>>>>>>> 4d1e2a70e3c30cd5cad76f7067fbf8e654e57f05
